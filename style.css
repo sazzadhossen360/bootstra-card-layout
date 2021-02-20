@@ -1,0 +1,48 @@
+.jquery {
+    background: #B8DAFF!important;
+    color: #5F5A87!important;
+}
+.Javascripts {
+    background: #F5C6CB!important;
+    color: #CB845C!important;
+}
+
+.bootstrap {
+    background: #C3E6CB!important;
+    color: #2F6E4D!important;
+}
+
+.html {
+    background: #BEE5EB!important;
+    color: #25648A!important;
+}
+
+.django {
+    background: #FFFFFF!important;
+    color: #8C99AD!important;
+}
+/* .badge.bg-primary {
+    margin-left: 60px;
+} */
+.badge.bg-primary{
+    position: absolute;
+    right: 20px;
+}
+.card-footer.bg-secondary {
+    border-top: 2px solid red;
+}
+.btn.btn-primary {
+    background: #17A2B8;
+    outline: 0;
+    border: unset;
+    color: white;
+}
+.button {
+    text-align: right;
+    color: white;
+}
+.btn-demos{
+    background: #28A745;
+    border: unset;
+    color: white;
+}
